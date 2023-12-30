@@ -3,7 +3,7 @@ title: "Portfolio"
 excerpt: "Portfolio is a personalized showcase designed to highlight my professional journey, skills, and projects. Crafted using Next.js, this full-stack application seamlessly integrates a Tailwind CSS frontend for a polished user experience. The backend leverages Next.js API routes, employing Prisma as the ORM to connect with a PostgreSQL database for efficient data storage."
 coverImage: "/images/portfolio_1.png"
 date: "2023-12-01T08:00:00Z"
-githubLink: "abc"
+githubLink: "https://github.com/NaSitTH/portfolio"
 tool: "Next.js,TypeScript,Tailwind,Prisma,PostgreSQL,Auth0,Swr"
 ---
 
