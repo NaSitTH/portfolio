@@ -88,7 +88,7 @@ const Navbar = ({ isOpenNav, handleOpenNav }: Props) => {
               isOpenNav
                 ? "translate-x-0 opacity-100"
                 : "translate-x-[50vw] opacity-100"
-            } fixed right-0 top-20 z-50 h-[calc(100vh-5rem)] w-1/2 translate-x-[50vw] bg-white shadow-md duration-300 ease-in-out`}
+            } fixed right-0 top-20 z-50 h-[calc(100vh-5rem)] w-1/2 bg-white shadow-md duration-300 ease-in-out`}
           >
             {/* Nav */}
             <nav className="p-5">
