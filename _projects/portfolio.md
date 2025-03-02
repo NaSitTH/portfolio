@@ -7,7 +7,7 @@ githubLink: "https://github.com/NaSitTH/portfolio"
 tool: "Next.js,TypeScript,Tailwind,Prisma,PostgreSQL,Auth0,Swr"
 ---
 
-![forest and green grass](/images/portfolio_1.png)
+![portfolio screenshot](/images/portfolio_1.png)
 
 ## Project Overview
 
